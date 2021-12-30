@@ -1,3 +1,3 @@
 # README
 
-vibert's readme. update.
+vibert's readme. master+dev merged.
